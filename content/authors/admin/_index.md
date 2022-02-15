@@ -2,8 +2,8 @@
 title: Ian Cedric Io
 role: NTU Business Undergraduate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My interests include UX Research, Search Engine Optimisation (SEO) and
+  Customer Relationship Management (CRM)
 social:
   - icon: envelope
     icon_pack: fas
