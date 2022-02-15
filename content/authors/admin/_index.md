@@ -27,4 +27,4 @@ Hey there, I’m Cedric! I’m an NTU Business undergraduate who’s passionate 
 
 Email: [ianc0005@e.ntu.edu.sg](mailto:ianc0005@e.ntu.edu.sg)
 
-[Back to homepage](https://cedric130813.netlify.app/)
+[Back to homepage](/)
