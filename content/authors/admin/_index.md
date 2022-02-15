@@ -11,9 +11,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cedric130813
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
