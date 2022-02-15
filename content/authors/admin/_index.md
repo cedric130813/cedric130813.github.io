@@ -1,6 +1,7 @@
 ---
 title: Ian Cedric Io
 role: NTU Business Undergraduate
+avatar_filename: 1617719814588-1-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
