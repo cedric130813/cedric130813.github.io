@@ -20,7 +20,7 @@ social:
       header: false
     link: https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf?dl=0
     icon_pack: fab
-    icon: file-user
+    icon: file-arrow-down
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
