@@ -13,7 +13,7 @@ social:
     link: https://twitter.com/cedric130813
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: github
     link: https://github.com/cedric130813
 organizations:
