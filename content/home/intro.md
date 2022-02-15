@@ -4,6 +4,7 @@ headless: true
 weight: 10
 author: admin
 widget_id: Introduction
+title: Ian Cedric Io
 ---
 🐈 Hey! I'm Cedric, an NTU Business undergraduate.
 
