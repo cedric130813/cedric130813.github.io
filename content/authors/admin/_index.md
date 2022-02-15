@@ -16,6 +16,11 @@ social:
     icon_pack: fab
     icon: github
     link: https://github.com/cedric130813
+  - display:
+      header: false
+    link: https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf?dl=0
+    icon_pack: fab
+    icon: file-user
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
