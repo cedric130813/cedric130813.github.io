@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: Nanyang Technological University (NTU), Singapore
+    url: https://www.ntu.edu.sg/
 superuser: true
 status:
   icon: ☕️
