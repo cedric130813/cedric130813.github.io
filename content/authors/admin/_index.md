@@ -21,7 +21,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hey there, I’m Cedric! I’m an NTU Business undergraduate who’s passionate about UX design, SEO and product management. My journey started when I was doing a digital app mock-up for a university project in October 2021. Currently, I am volunteering as Head of Marketing at Skills for Good, a youth-led ground-up initiative that matches skilled volunteers to meaningful projects with social organisations.
