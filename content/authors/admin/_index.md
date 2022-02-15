@@ -1,6 +1,6 @@
 ---
 title: Ian Cedric Io
-role: 数据科学家
+role: NTU Business Undergraduate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -9,7 +9,7 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/cedric130813
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
