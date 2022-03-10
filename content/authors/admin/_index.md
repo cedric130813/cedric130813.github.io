@@ -4,6 +4,10 @@ role: NTU Business Undergraduate
 avatar_filename: avatar.jpg
 bio: My interests include UX Research, Search Engine Optimisation (SEO) and
   Customer Relationship Management (CRM)
+interests:
+  - SEO
+  - UX
+  - CRM
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,7 +32,9 @@ superuser: true
 status:
   icon: ☕️
 ---
-Hey there, I’m Cedric! I’m an NTU Business undergraduate who’s passionate about UX design, SEO and product management. My journey started when I was doing a digital app mock-up for a university project in October 2021. Currently, I am volunteering as Head of Marketing at Skills for Good, a youth-led ground-up initiative that matches skilled volunteers to meaningful projects with social organisations.
+Hey there, I’m Cedric! I’m an NTU Business undergraduate who’s passionate about UX design, SEO and product management. My journey started when I was doing a digital app mock-up for a university project in October 2021. 
+
+Currently, I am volunteering as Head of Marketing at **[Skills for Good](https://www.skills-for-good.org/)**, a youth-led ground-up initiative that matches skilled volunteers to meaningful projects with social organisations.
 
 Email: [ianc0005@e.ntu.edu.sg](mailto:ianc0005@e.ntu.edu.sg)
 
