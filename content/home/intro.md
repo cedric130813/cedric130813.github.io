@@ -6,6 +6,6 @@ author: admin
 widget_id: Introduction
 title: Ian Cedric Io
 ---
-🐈 Hey! I'm Cedric, an NTU Business undergraduate looking for summer internship opportunities.
+🐈 Hey! I'm Cedric, a business major studying at Nanyang Technological University (NTU), Singapore.
 
 Check out my [CV](/about/) and [blog posts](https://cedric130813.medium.com/)
