@@ -1,6 +1,6 @@
 ---
 title: Ian Cedric Io
-role: NTU Business Undergraduate
+role: Business undergraduate
 avatar_filename: avatar.jpg
 bio: My interests include Marketing Analytics (MarTech), User Research, SEO
 interests:
