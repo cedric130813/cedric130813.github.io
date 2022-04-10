@@ -6,8 +6,8 @@ bio: My interests include UX Research, Search Engine Optimisation (SEO) and
   Customer Relationship Management (CRM)
 interests:
   - SEO
-  - UX
-  - CRM
+  - Analytics
+  - Marketing
 social:
   - icon: envelope
     icon_pack: fas
