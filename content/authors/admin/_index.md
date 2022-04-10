@@ -1,6 +1,6 @@
 ---
 title: Ian Cedric Io
-role: Business undergraduate
+role: Business Undergraduate
 avatar_filename: avatar.jpg
 bio: My interests include Marketing Analytics (MarTech), User Research, SEO
 interests:
