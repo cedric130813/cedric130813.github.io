@@ -8,4 +8,4 @@ title: Ian Cedric Io
 ---
 🐈 Hey! I'm Cedric, a business major studying at Nanyang Technological University (NTU), Singapore.
 
-Check out my [CV](/about/) and [blog posts](https://cedric130813.medium.com/)
+Check out my [profile](/about/) and [blog posts](https://cedric130813.medium.com/)
