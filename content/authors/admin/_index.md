@@ -4,6 +4,7 @@ role: Business Undergraduate
 avatar_filename: avatar.jpg
 bio: My interests include Marketing Analytics (MarTech), User Research, SEO
 interests:
+  - SQL
   - SEO
   - Analytics
   - MarTech
