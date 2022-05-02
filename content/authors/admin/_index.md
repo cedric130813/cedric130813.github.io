@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: mailto:ianc0005@e.ntu.edu.sg
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cedric130813
