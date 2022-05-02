@@ -29,7 +29,7 @@ social:
       header: false
     link: https://github.com/cedric130813
     icon_pack: fas
-    icon: github
+    icon: code
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
