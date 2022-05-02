@@ -22,8 +22,16 @@ Project: <https://github.com/cedric130813/eda_analytics>
 
 **Examples of questions to explore in dataset:**
 
-Which parent company made the most number of acquisitions?\
-What are the 5 top business types acquired by parent companies?\
+Which parent company made the most number of acquisitions?
+
+![](how-many-companies-did-each-parent-company-acquire.png)
+
+\
+What are the 5 top business types acquired by parent companies?
+
+![](top-5-business-types-acquired-by-respective-parent-companies.png)
+
+\
 Which company makes the acquisitions quickly?
 What is the trend of business use-cases among the acquired companies throughout the years?
 What can be forecasted for upcoming years in terms of acquisitions?
