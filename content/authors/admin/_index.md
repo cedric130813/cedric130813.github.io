@@ -22,9 +22,9 @@ social:
     icon: download
   - display:
       header: false
-    link: https://www.hackerrank.com/cedric130813
+    link: https://www.linkedin.com/in/cedric130813/
     icon_pack: fas
-    icon: database
+    icon: linkedin
   - display:
       header: false
     link: https://github.com/cedric130813
