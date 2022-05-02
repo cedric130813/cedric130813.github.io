@@ -25,6 +25,11 @@ social:
     link: https://www.hackerrank.com/cedric130813
     icon_pack: fas
     icon: database
+  - display:
+      header: false
+    link: https://github.com/cedric130813
+    icon_pack: fas
+    icon: github
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
