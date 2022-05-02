@@ -1,10 +1,11 @@
 ---
 title: Merger and Acquisitions by Tech Companies
-subtitle: The attributes include the date, year, month of the acquisition, name
+subtitle: ""
+date: 2022-05-02T14:34:00.623Z
+summary: The attributes include the date, year, month of the acquisition, name
   of the company acquired, value or the cost of acquisition, business use-case
   of the acquisition, and the country from which the acquisition was made. The
   source of the dataset is Wikipedia, TechCrunch, and CrunchBase.
-date: 2022-05-02T14:34:00.623Z
 draft: false
 featured: false
 image:
