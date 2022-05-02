@@ -13,27 +13,25 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Source: <https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companies>
+Project: [](https://github.com/cedric130813/eda_analytics)<https://github.com/cedric130813/eda_analytics/blob/main/Merger%20and%20Acquisitions%20by%20Tech%20Companies.ipynb>
 
-Project: <https://github.com/cedric130813/eda_analytics>
+Source: [https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companie](https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companies)
 
-[](https://github.com/cedric130813/eda_analytics)The dataset contains the list of acquisitions made by the following companies
+The dataset contains the list of acquisitions made by the following companies
 
 > Microsoft, Google, IBM, Hp, Apple, Amazon, Facebook, Twitter, eBay, Adobe, Citrix, Redhat, Blackberry, Disney
 
 **Examples of questions to explore in dataset:**
 
-Which parent company made the most number of acquisitions?
+* Which parent company made the most number of acquisitions?
 
 ![](how-many-companies-did-each-parent-company-acquire.png)
 
-\
-What are the 5 top business types acquired by parent companies?
+* What are the 5 top business types acquired by parent companies?
 
 ![](top-5-business-types-acquired-by-respective-parent-companies.png)
 
-\
-Which company makes the acquisitions quickly?
-What is the trend of business use-cases among the acquired companies throughout the years?
-What can be forecasted for upcoming years in terms of acquisitions?
-Predict who is likely to make next acquisitions and when?
+* Which company makes the acquisitions quickly?
+* What is the trend of business use-cases among the acquired companies throughout the years?
+* What can be forecasted for upcoming years in terms of acquisitions?
+* Predict who is likely to make next acquisitions and when?
