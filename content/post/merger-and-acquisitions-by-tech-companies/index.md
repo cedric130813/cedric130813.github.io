@@ -29,7 +29,9 @@ The dataset contains the list of acquisitions made by the following companies fr
 
 ![](how-many-companies-did-each-parent-company-acquire.png)
 
-* What are the 5 top business types acquired by parent companies?
+* What are the 5 top business types acquired by parent companies? 
+
+  The software industry is the most commonly acquired by parent companies, which includes data analytics platform Looker which was acquired by Google and SalesForce's acquisition of Slack in view of its peak during the pandemic remote-work climate.
 
 ![](top-5-business-types-acquired-by-respective-parent-companies.png)
 
