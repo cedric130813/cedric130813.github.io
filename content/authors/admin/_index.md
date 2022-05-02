@@ -24,7 +24,7 @@ social:
       header: false
     link: https://www.linkedin.com/in/cedric130813/
     icon_pack: fas
-    icon: linkedin
+    icon: linkedin-in
   - display:
       header: false
     link: https://github.com/cedric130813
