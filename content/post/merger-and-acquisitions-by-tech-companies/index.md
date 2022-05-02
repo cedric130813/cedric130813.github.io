@@ -17,13 +17,15 @@ Project: [](https://github.com/cedric130813/eda_analytics)<https://github.com/ce
 
 Source: [https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companie](https://www.kaggle.com/datasets/shivamb/company-acquisitions-7-top-companies)
 
-The dataset contains the list of acquisitions made by the following companies
+The dataset contains the list of acquisitions made by the following companies from 1988 to 2021
 
 > Microsoft, Google, IBM, Hp, Apple, Amazon, Facebook, Twitter, eBay, Adobe, Citrix, Redhat, Blackberry, Disney
 
 **Examples of questions to explore in dataset:**
 
 * Which parent company made the most number of acquisitions?
+
+  Microsoft and Google acquired the most number of companies as both companies crossed the 200-number threshold. Microsoft's recent key acquisitions are video gaming company Activision Blizzard and code repository website GitHub; while Google's key acquisitions (under parent company Alphabet) are GPS navigation app Waze and sports wearable tracker company Fitbit.
 
 ![](how-many-companies-did-each-parent-company-acquire.png)
 
