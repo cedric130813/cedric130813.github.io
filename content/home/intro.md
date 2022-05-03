@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: Ian Cedric Io
 author: admin
+active: true
 ---
 
 🐈 Hey! I'm Cedric, a business major studying at Nanyang Technological University (NTU), Singapore.
