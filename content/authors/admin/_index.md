@@ -43,4 +43,6 @@ Currently, I am volunteering as **Head of Marketing at [Skills for Good](https:/
 
 **Email: [ianc0005@e.ntu.edu.sg](mailto:ianc0005@e.ntu.edu.sg)**
 
+**Tableau Portfolio:** <https://public.tableau.com/app/profile/cedric130813>
+
 [Back to homepage](/)
