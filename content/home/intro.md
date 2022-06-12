@@ -7,7 +7,6 @@ title: Ian Cedric Io
 author: admin
 active: true
 ---
-
-🐈 Hey! I'm Cedric, a business major studying at Nanyang Technological University (NTU), Singapore.
+🐈 Hello! I'm Cedric and I'm a Business Analytics major at Nanyang Technological University.
 
 Check out my [profile](/about/) and [blog posts](https://cedric130813.medium.com/)
