@@ -10,3 +10,5 @@ active: true
 🐈 Hello! I'm Cedric and I'm a Business Analytics major at Nanyang Technological University.
 
 Check out my [profile](/about/) and [blog posts](https://cedric130813.medium.com/)
+
+**Tableau Portfolio:** <https://public.tableau.com/app/profile/cedric130813>
