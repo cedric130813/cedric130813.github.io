@@ -5,10 +5,9 @@ avatar_filename: avatar.jpg
 bio: My interests include Marketing Analytics (MarTech), User Research, Product
   Management
 interests:
-  - SQL
-  - SEO
-  - Analytics
+  - Business Analytics
   - MarTech
+  - Product Management
 social:
   - icon: envelope
     icon_pack: fas
