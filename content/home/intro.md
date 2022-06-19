@@ -7,9 +7,8 @@ title: Ian Cedric Io
 author: admin
 active: true
 ---
-🐈 Hello! I'm Cedric and I'm a Business Analytics major at Nanyang Technological University.
+Hello! I'm Cedric and I major in Business Analytics.\
+👉Check out my [profile](/about/)
 
-Check out my [profile](/about/) and [blog posts](https://cedric130813.medium.com/)
-
-**Side Projects:** <https://cedric130813.webflow.io/>\
-**Resume:** <https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf?dl=0>
+**▶Projects:** <https://cedric130813.webflow.io/>\
+📂**Resume:** <https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf?dl=0>
