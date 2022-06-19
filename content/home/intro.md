@@ -12,5 +12,4 @@ active: true
 Check out my [profile](/about/) and [blog posts](https://cedric130813.medium.com/)
 
 **Side Projects:** <https://cedric130813.webflow.io/>\
-**Tableau Portfolio:** <https://public.tableau.com/app/profile/cedric130813>\
 **Resume:** <https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf?dl=0>
