@@ -1,6 +1,6 @@
 ---
 title: Ian Cedric Io
-role: Business Undergraduate
+role: Business Analytics Undergraduate
 avatar_filename: avatar.jpg
 bio: My interests include Marketing Analytics (MarTech), User Research, Product
   Management
@@ -17,19 +17,9 @@ social:
     link: https://twitter.com/cedric130813
   - display:
       header: false
-    link: https://www.dropbox.com/s/df7srg3htlwv917/Resume_Ian_Cedric_Io.pdf?dl=0
-    icon_pack: fas
-    icon: download
-  - display:
-      header: false
     link: https://www.linkedin.com/in/cedric130813/
     icon_pack: fas
     icon: link
-  - display:
-      header: false
-    link: https://github.com/cedric130813
-    icon_pack: fas
-    icon: code
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
