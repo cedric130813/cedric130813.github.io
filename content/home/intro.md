@@ -8,6 +8,7 @@ author: admin
 active: true
 ---
 Hello! I'm Cedric and I major in Business Analytics.\
+\
 👉Check out my [profile](/about/)
 
 📂**Projects:** [cedric130813.webflow.io](https://cedric130813.webflow.io/)\
