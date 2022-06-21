@@ -10,5 +10,5 @@ active: true
 Hello! I'm Cedric and I major in Business Analytics.\
 👉Check out my [profile](/about/)
 
-📂**Projects[](https://cedric130813.webflow.io/)**\
+📂**Projects:** [cedric130813.webflow.io](https://cedric130813.webflow.io/)\
 📂**[Resume](https://tinyurl.com/resume130813)**
