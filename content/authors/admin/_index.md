@@ -12,14 +12,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:ianc0005@e.ntu.edu.sg
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/cedric130813
+    label: Email
   - display:
       header: false
     link: https://www.linkedin.com/in/cedric130813/
     icon_pack: fab
     icon: linkedin
+    label: LinkedIn
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/cedric130813
+    label: Twitter
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
