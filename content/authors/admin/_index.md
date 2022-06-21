@@ -19,7 +19,7 @@ social:
       header: false
     link: https://www.linkedin.com/in/cedric130813/
     icon_pack: fas
-    icon: linkedin-in
+    icon: linkedin
 organizations:
   - name: Nanyang Technological University (NTU), Singapore
     url: https://www.ntu.edu.sg/
