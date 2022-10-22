@@ -1,13 +1,12 @@
 ---
 title: Ian Cedric Io
 role: Business Analytics Undergraduate
-avatar_filename: avatar.jpg
-bio: My interests include Marketing Analytics (MarTech), User Research, Product
-  Management
+avatar_filename: 1665771049428.jpg
+bio: ""
 interests:
+  - Data Visualisation
+  - Databases
   - Business Analytics
-  - MarTech
-  - Product Management
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,10 +29,10 @@ superuser: true
 status:
   icon: ☕️
 ---
-Hey there, I’m Cedric! I’m an NTU Business Analytics undergraduate passionate about **Business Analytics and MarTech.**
+Hey there, I’m Cedric! I’m an NTU Business Analytics undergraduate.
 
-Currently, I am volunteering as **Head of Marketing at [Skills for Good](https://www.skills-for-good.org/)**, **a youth-led ground-up initiative that matches skilled volunteers to meaningful projects with social organisations.**
+Currently, I am a **Tableau Student Ambassador** and volunteering as **Head of Marketing at [Skills for Good](https://www.skills-for-good.org/)**, a youth-led ground-up initiative that matches skilled volunteers to meaningful projects with social organisations.
 
-**Email: [ianc0005@e.ntu.edu.sg](mailto:ianc0005@e.ntu.edu.sg)**
+Email:** [ianc0005@e.ntu.edu.sg](mailto:ianc0005@e.ntu.edu.sg)**
 
 [Back to homepage](/)
